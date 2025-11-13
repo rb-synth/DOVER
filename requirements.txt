@@ -1,4 +1,4 @@
-torch~=1.13
+torch
 torchvision
 opencv-python
 decord
@@ -11,4 +11,4 @@ einops
 wandb
 scikit-video
 thop==0.0.31-2005241907
-onnx
+# onnx
